@@ -1,0 +1,14 @@
+.list1main {
+    background-color: rgb(56, 74, 125);
+    /* width: 15rem; */
+    min-height: 276px;;
+    
+}
+
+.socketid {
+    background-color: cadetblue;
+    border: 1px solid;
+    margin: 1px;
+    padding: 2px;
+    
+}
